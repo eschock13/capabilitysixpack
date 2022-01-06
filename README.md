@@ -13,7 +13,7 @@ Still Working on this section
 
 #### Demo of some of the features:
 ```python
-import CapabilityPlots as cp
+import capabilitysixpack
 ```
 
 ## Contributing
